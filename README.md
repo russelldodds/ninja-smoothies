@@ -1,6 +1,8 @@
 # ninja-smoothies
 
-> A Vue.js project
+# Demo
+
+https://ninja-smoothies-42.web.app/#/
 
 ## Build Setup
 
