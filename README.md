@@ -1,5 +1,7 @@
 # ninja-smoothies
 
+Learning Vue project
+
 # Demo
 
 https://ninja-smoothies-42.web.app/#/
